@@ -32,7 +32,7 @@
   },
   "scripts": {},
   "devDependencies": {
-    "nyc": "^6.4.0",
+    "nyc": "^15.1.0",
     "standard": "*",
     "tape": "^4.5.1"
   },
